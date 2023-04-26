@@ -3,13 +3,13 @@
 
 @font-face {
     font-family: "passionOne";
-    src: url(passionOne/PassionOne-Black.ttf), url(passionOne/PassionOne-Bold.ttf), url(passionOne/PassionOne-Regular.ttf) format("truetype");
+    src: url(/fontes/PassionOne-Black.ttf), url(/fontes/PassionOne-Bold.ttf), url(/fontes/PassionOne-Regular.ttf) format("truetype");
 }
 
 
 @font-face {
     font-family: "sriracha";
-    src: url(/sriracha/Sriracha-Regular.ttf) format("truetype");
+    src: url(/fontes/Sriracha-Regular.ttf) format("truetype");
 }
 
 
@@ -100,13 +100,13 @@ section.imagem > p {
 
 
 #img01 {
-    background-image: url(/background001.jpg);
+    background-image: url(/imagens/background001.jpg);
     background-position: right center;
 }
 
 
 #img02 {
-    background-image: url(/background002.jpg);
+    background-image: url(/imagens/background002.jpg);
     background-position: right center;
 }
 
